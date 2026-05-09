@@ -1,4 +1,4 @@
-# 🛠️ 个人 GitHub 宝藏库 (My Awesome Repos)
+# 🛠️ GitHub 百宝箱 (github-treasure-box)
 
 这里主要记录我在日常开发和上网时，发现的实用、有趣、高质量的开源项目。通过分类整理，方便后续快速查找和复用。
 
