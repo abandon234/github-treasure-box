@@ -4,12 +4,27 @@
 
 ## 📑 目录 (Table of Contents)
 
-- [安全与数据分析](#-安全与数据分析)
-- [开发者效率神器](#-开发者效率神器)
-- [C/C++与硬件开发](#-cc与硬件开发)
-- [其他有趣项目](#-其他有趣项目)
+<details>
+<summary><strong>🛡️ 安全与数据分析</strong></summary>
 
----
+- [1. HackBrowserData](#1-hackbrowserdata)
+- [2. CyberChef](#2-cyberchef)
+
+</details>
+
+<details>
+<summary><strong>🚀 开发者效率神器</strong></summary>
+
+- [1. DevToys](#1-devtoys)
+
+</details>
+
+<details>
+<summary><strong>💻 C/C++与硬件开发</strong></summary>
+
+- [1. 项目名称](#1-项目名称)
+
+</details>
 
 ## 🛡️ 安全与数据分析
 
@@ -19,6 +34,11 @@
 * **推荐理由/笔记**：能够一键导出各大浏览器（如 Edge, Chrome）保存的密码、Cookies、书签和下载历史。*注：导出的 `cookie.json` 等文件极为敏感，仅限个人测试和安全研究使用，用完需及时清理！*
 
 ---
+### 2. [CyberChef](https://github.com/gchq/CyberChef)
+* **简介**：网络安全与数据处理的终极神器。
+* **技术栈**：`JavaScript`
+* **推荐理由/笔记**：可以在线进行各种数据编解码、加密解密，像搭积木一样处理数据。
+  
 
 ## 🚀 开发者效率神器
 
