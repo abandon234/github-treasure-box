@@ -13,9 +13,9 @@
 </details>
 
 <details>
-<summary><strong>🚀 开发者效率神器</strong></summary>
+<summary><strong>🚀 实用链接</strong></summary>
 
-- [1. DevToys](#1-devtoys)
+- [1. Emoji](#1-Emoji)
 
 </details>
 
@@ -40,12 +40,12 @@
 * **推荐理由/笔记**：可以在线进行各种数据编解码、加密解密，像搭积木一样处理数据。
   
 
-## 🚀 开发者效率神器
+## 🚀 实用链接
 
-### 1. [DevToys](https://github.com/DevToys-app/DevToys)
-* **简介**：专为开发者设计的离线“瑞士军刀”。
-* **技术栈**：`C#` / `React`
-* **推荐理由/笔记**：包含 JSON 格式化、Base64 编解码、时间戳转换等几十种常用小工具。完全离线运行，处理敏感数据（如解码 Token 时）不用担心数据泄露。
+### 1. [Emoji](https://emojipedia.org/)
+* **简介**：各种微信/QQ表情包直接复制，发朋友圈再也不用愁找不到好用的emoji表情了。
+* **技术栈**：
+* **推荐理由/笔记**：网最全的 Emoji 官方网站，几千个表情可以直接复制。
 
 ---
 
