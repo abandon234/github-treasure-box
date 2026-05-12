@@ -51,7 +51,7 @@
 
 ---
 
-### 2. [gif]([gifcap.dev](https://gifcap.dev/))
+### 2. [gif](https://gifcap.dev/)
 * **简介**：gif录制网站，录制gif视频。
 * **技术栈**：
 * **推荐理由/笔记**：非常方便不用下载，也完全免费。
