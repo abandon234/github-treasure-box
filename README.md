@@ -17,7 +17,10 @@
 
 - [1. Emoji](#1-Emoji)
 
+- [2. gif](#2-gif generate web)
+
 </details>
+
 
 <details>
 <summary><strong>💻 C/C++与硬件开发</strong></summary>
@@ -48,6 +51,14 @@
 * **推荐理由/笔记**：网最全的 Emoji 官方网站，几千个表情可以直接复制。
 
 ---
+
+### 2. [gif](gifcap.dev)
+* **简介**：gif录制网站，录制gif视频。
+* **技术栈**：
+* **推荐理由/笔记**：非常方便不用下载，也完全免费。
+
+---
+
 
 ## 💻 C/C++与硬件开发
 
