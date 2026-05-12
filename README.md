@@ -16,8 +16,7 @@
 <summary><strong>🚀 实用链接</strong></summary>
 
 - [1. Emoji](#1-Emoji)
-
-- [2. gif](#2-gif generate web)
+- [2. gif](#2-gif_generate_web)
 
 </details>
 
